@@ -1,0 +1,9 @@
+Hello Git and GitHub >> README.text
+Sample text
+git add README.txt
+<<
+pwd
+
+echo
+$ git add
+echo Hello Git and GitHub
